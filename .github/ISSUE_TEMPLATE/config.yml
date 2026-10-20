@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Hai trovato una vulnerabilità?
+    url: https://www.acn.gov.it/portale/csirt-italia
+    about: Non segnalarla qui. Questo repository non riceve segnalazioni e non offre consulenza legale. Usa i canali di CSIRT Italia.
+  - name: Scrivi alla segreteria
+    url: mailto:segreteria@buonafede.org
+    about: Per contributi senza Git, correzioni alle schede, domande sul calendario.
