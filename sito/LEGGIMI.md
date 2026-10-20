@@ -16,9 +16,8 @@ Le pagine non sono generate: se cambi un testo nel repository, cambia anche la p
 
 1. **Marchio.** Fatto. I file stanno in `logo/` (vedi `logo/LEGGIMI.md`); l'intestazione e il piede caricano la versione orizzontale, con il negativo in modalità scura. `favicon.svg` è il quadrato "bf.".
 2. **Date.** La call dice "quattro settimane" e "le date saranno indicate in questa pagina": quando fissi l'apertura, inserisci apertura e chiusura in `call.html`.
-3. **Link al repository.** Le pagine parlano di issue, pull request e repository, ma non hanno un link, perché l'indirizzo non è ancora noto. Aggiungilo in `call.html` e `firmatari.html`.
-4. **Dominio.** Aggiungi il file `CNAME` con `buonafede.org` solo quando il dominio è registrato e puntato. Il redirect di `buonafede.net` si configura a livello DNS o di registrar.
-5. **Schede del confronto.** Restano valide solo finché le fonti primarie non vengono lette. I punti da verificare sono marcati in pagina.
+3. **Dominio.** Aggiungi il file `CNAME` con `buonafede.org` solo quando il dominio è registrato e puntato. Il redirect di `buonafede.net` si configura a livello DNS o di registrar.
+4. **Schede del confronto.** Restano valide solo finché le fonti primarie non vengono lette. I punti da verificare sono marcati in pagina.
 
 ## Pubblicazione con GitHub Pages
 
