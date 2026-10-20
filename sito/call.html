@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; img-src 'self'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<title>La call - Buona Fede</title>
+<meta name="description" content="Call for paper per hacker etici, professionisti e giuristi: scrivi la norma che ti manca. Fase 1 sui principi, quattro settimane. Basta una pagina.">
+<meta name="theme-color" content="#FBFBF8">
+<meta property="og:title" content="Buona Fede - la call: scrivi la norma che ti manca">
+<meta property="og:description" content="Una proposta di legge per la tutela penale della ricerca di sicurezza in buona fede, scritta in pubblico. Basta una pagina.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="it_IT">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="css/stile.css">
+</head>
+<body>
+<a class="salta" href="#contenuto">Vai al contenuto</a>
+<header class="testata">
+  <div class="interno">
+    <a class="marchio" href="index.html" aria-label="Buona Fede, pagina iniziale"><img class="chiaro" src="logo/logo-orizzontale.svg" alt="buona fede" width="718" height="133"><img class="scuro" src="logo/logo-orizzontale-negativo.svg" alt="" width="718" height="133"></a>
+    <nav aria-label="Principale">
+      <ul>
+        <li><a href="index.html">Manifesto</a></li>
+        <li><a href="call.html" aria-current="page">La call</a></li>
+        <li><a href="confronto.html">Confronto fra Paesi</a></li>
+        <li><a href="chi-siamo.html">Chi siamo e come si decide</a></li>
+        <li><a href="firmatari.html">Firmatari</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main id="contenuto">
+  <article class="colonna">
+    <div class="apertura">
+      <p class="etichetta">Call for paper &middot; versione 0.1, 20 ottobre 2026</p>
+      <h1>Per chi fa sicurezza in Italia: scrivi la norma che ti manca</h1>
+      <p class="tesi">Questo non è un tavolo già fatto. È una call per formarlo. I principi sono tutti in discussione, e cosa entra nel testo lo decide chi risponde, non chi ha scritto la bozza. Chi risponde entra; chi entra firma, se vuole, con nome e ruolo.</p>
+
+      <div class="riquadro forte">
+        <h3>Come rispondere</h3>
+        <p>Scegli tra le undici domande qui sotto quella su cui hai esperienza e scrivi una pagina. Se non usi Git, mandala per mail: la pubblichiamo noi.</p>
+        <p><a class="pulsante" href="mailto:segreteria@buonafede.org?subject=Contributo%20alla%20call%20Buona%20Fede&amp;body=Nome%20o%20pseudonimo%3A%0ARuolo%20(facoltativo)%3A%0A%0APunto%20della%20call%20a%20cui%20rispondo%20(numero%20e%20titolo)%3A%0A%0AEsperienza%20o%20argomento%3A%0A%0AFonti%20(norme%2C%20documenti%2C%20casi%20gia%20pubblici)%3A%0A%0A---%0ANon%20indicare%20vulnerabilita%20reali%20non%20risolte%2C%20nomi%20di%20sistemi%20o%20aziende%2C%20exploit.">Scrivi alla segreteria</a></p>
+        <p>Preferisci Git? Apri una issue con il modello &laquo;osservazione sui principi&raquo; oppure una pull request con il tuo file in <code>call/contributi/</code>, nel repository pubblico del progetto.</p>
+      </div>
+    </div>
+
+    <section class="sezione">
+      <h2>Il punto</h2>
+      <p>Il 7 ottobre 2026 ACN ha invitato la comunità a segnalare le vulnerabilità zero day al CSIRT Italia. L'invito arriva senza una tutela scritta per chi segnala: l'ACN stessa lo ha riconosciuto nella Relazione annuale 2025. L'art. 615-ter c.p. non distingue le intenzioni e, sui sistemi di interesse pubblico, arriva a 10 anni, 12 con l'aggravante.</p>
+      <p>Vogliamo scrivere, in pubblico, una proposta di legge per una causa di non punibilità condizionata, con l'esenzione dall'obbligo di denuncia per il CSIRT, e portarla in Parlamento. Il testo penale lo scrivono i penalisti, ma i casi, i confini e gli errori li conosci tu. Questa call serve a raccogliere la tua esperienza prima che il testo prenda forma.</p>
+      <p>Si parte dal <a href="index.html#manifesto">manifesto</a> e dalle <a href="confronto.html">schede comparative</a>. Lo scheletro dell'articolato, nel repository, è un elenco di domande che ci siamo fatti, non di risposte.</p>
+    </section>
+
+    <section class="sezione">
+      <h2>A chi è rivolta</h2>
+      <p>Hacker etici, ricercatori di sicurezza, professionisti (pentester, red team, incident response, DPO, CISO), giuristi e penalisti, ricercatori universitari, chi lavora in un CSIRT o in un SOC. Non servono titoli, né essere noti.</p>
+    </section>
+
+    <section class="sezione" id="fase-1">
+      <h2>Fase 1: i principi, quattro settimane</h2>
+      <p>Ci servono contributi sui principi, non sui commi. In discussione: buona fede e assenza di profitto; azioni necessarie e proporzionate; nessuna copia o esfiltrazione oltre lo stretto necessario; nessun danno; segnalazione tempestiva a CSIRT Italia e al titolare; nessuna divulgazione senza il consenso del CSIRT; nessuna richiesta di compenso come condizione; esenzione dall'obbligo di denuncia per il CSIRT; estensione ai reati citati dalla Politica.</p>
+      <p>Rispondi alle domande dove hai esperienza, non a tutte.</p>
+
+      <ol class="domande">
+        <li><strong>Buona fede.</strong> Come si riconosce da fuori? Quali comportamenti la rendono credibile? A chi spetta dimostrarla?</li>
+        <li><strong>Necessario e proporzionato.</strong> Per categorie di azioni, senza parlare di sistemi reali: dove passa il confine tra verificare e andare oltre? Un elenco di condotte escluse aiuta o irrigidisce?</li>
+        <li><strong>Dati.</strong> Cosa significa &laquo;stretto necessario&raquo; quando la prova richiede di mostrare un dato? Come si documenta senza conservare?</li>
+        <li><strong>Danno.</strong> Quali effetti collaterali sono ragionevolmente imprevedibili? Una condizione di &laquo;nessun danno&raquo; assoluta regge?</li>
+        <li><strong>Tempestività.</strong> Il Belgio chiede 24 ore per la notifica semplificata e 72 per la completa. È realistico? Come si fissa il momento della scoperta? E se il titolare non si trova?</li>
+        <li><strong>Divulgazione.</strong> Tempi di correzione che hai visto; cosa dovrebbe succedere se il CSIRT non risponde o non autorizza; esperienze con altri CSIRT o programmi (anonimizzate).</li>
+        <li><strong>Compenso.</strong> Dove passa il confine tra ringraziamento, bug bounty e richiesta come condizione?</li>
+        <li><strong>CSIRT.</strong> Cosa serve perché ti fidi: ricevuta, tempi di risposta, riservatezza, anonimato? Come si prova di aver segnalato?</li>
+        <li><strong>Perimetro.</strong> La Politica riguarda gli zero day. La tutela deve coprire anche esposizioni, errate configurazioni, vulnerabilità note su un sistema specifico?</li>
+        <li><strong>Sistemi di interesse pubblico.</strong> Dove le pene sono più alte: tutela uguale, accordo preventivo, esclusioni?</li>
+        <li><strong>Casi.</strong> Casi già pubblici (sentenze, provvedimenti, atti, pubblicazioni ufficiali), anonimizzati, in cui l'assenza di tutela ha avuto effetti concreti.</li>
+      </ol>
+
+      <h3>Formati</h3>
+      <p>Nota breve (una pagina), position paper (massimo 3.000 parole), scheda su altri Paesi, nota tecnica. In italiano. Per i giuristi: osservazioni su natura giuridica, collocazione e formulazione sono benvenute già in fase 1. Basta anche una pagina.</p>
+
+      <details>
+        <summary>Un modello per la nota di una pagina</summary>
+        <pre class="modello">Nome o pseudonimo:
+Ruolo (facoltativo):
+
+Punto della call a cui rispondo (numero e titolo):
+
+Esperienza o argomento:
+
+Fonti (norme, documenti, casi già pubblici):</pre>
+      </details>
+    </section>
+
+    <section class="sezione" id="fase-2">
+      <h2>Fase 2: il testo articolato</h2>
+      <p>Chi ha risposto alla fase 1 sceglie il comitato (<a href="chi-siamo.html">la proposta di governance</a>). Il comitato pubblica una sintesi dei contributi e una versione dell'articolato (v0.2) costruita su quelle risposte. Segue un periodo di commento sul testo, con attenzione alla formulazione delle condizioni, all'esenzione del CSIRT, al confronto con il Garante privacy e alla disciplina transitoria. I penalisti validano il testo prima della chiusura.</p>
+    </section>
+
+    <section class="sezione" id="regole">
+      <h2>Regole</h2>
+      <ol class="lettere">
+        <li><strong>Niente vulnerabilità reali.</strong> Non indicare vulnerabilità non risolte, nomi di sistemi o aziende, exploit, accessi non autorizzati non ancora definiti in sede giudiziaria. I casi sono ammessi solo se già pubblici e anonimizzati, con la fonte. Vale il Codice di condotta del repository: il contributo che lo viola viene rimosso.</li>
+        <li><strong>Se hai una vulnerabilità da segnalare</strong>, non farlo qui: usa i canali di CSIRT Italia.</li>
+        <li><strong>Nome o pseudonimo.</strong> Puoi inviare con uno pseudonimo e lo pubblichiamo così. Per comparire tra i firmatari servono il nome reale e il ruolo.</li>
+        <li><strong>Nessuna consulenza.</strong> Non rispondiamo a domande sulla tua posizione personale: per quello serve un avvocato.</li>
+        <li><strong>Licenza.</strong> Inviando accetti che il contributo sia rilasciato con la licenza del repository.</li>
+        <li><strong>Fonti.</strong> Se affermi qualcosa su una norma o un documento, indica la fonte.</li>
+      </ol>
+    </section>
+
+    <section class="sezione">
+      <h2>Cosa succede dopo</h2>
+      <p>Ogni contributo che rispetta il Codice di condotta è pubblicato. La segreteria risponde a ciascuno nel registro delle osservazioni, con esito e motivazione. I contributi che hanno cambiato il testo sono citati nella relazione illustrativa con il nome o lo pseudonimo dell'autore, se lo consente.</p>
+      <p>Le tappe, in ordine: chiusura della fase 1; assemblea dei contributori e scelta del comitato; sintesi e articolato v0.2; fase 2, di commento sul testo; chiusura della v1.0 e raccolta delle firme. Le date di apertura e di chiusura saranno indicate in questa pagina.</p>
+    </section>
+
+    <section class="sezione">
+      <h2>Chi promuove</h2>
+      <p>Maurizio Siracusa, ricercatore di sicurezza indipendente, a titolo personale. Nessuna azienda, nessun marchio. Chi decide, da qui in avanti, è descritto in <a href="chi-siamo.html">chi siamo e come si decide</a>.</p>
+    </section>
+
+    <section class="sezione" id="condividi">
+      <h2>Fai girare la call</h2>
+      <p>Il link che gira è questa pagina. Un testo pronto, da copiare dove vuoi:</p>
+      <pre class="modello">ACN invita a segnalare gli zero day al CSIRT. Senza tutela penale per chi segnala: lo ammette ACN. Il 615-ter arriva a 12 anni. Stiamo scrivendo in pubblico la norma che manca. Call for paper, 4 settimane: https://buonafede.org/call.html #buonafede</pre>
+      <p class="fonti">Oppure apri direttamente: <a href="https://t.me/share/url?url=https%3A%2F%2Fbuonafede.org%2Fcall.html&amp;text=ACN%20invita%20a%20segnalare%20gli%20zero%20day%20al%20CSIRT.%20Senza%20tutela%20penale%20per%20chi%20segnala%3A%20lo%20ammette%20ACN.%20Il%20615-ter%20arriva%20a%2012%20anni.%20Stiamo%20scrivendo%20in%20pubblico%20la%20norma%20che%20manca.%20Call%20for%20paper%2C%204%20settimane.%20%23buonafede" rel="noopener">Telegram</a> &middot; <a href="https://bsky.app/intent/compose?text=ACN%20invita%20a%20segnalare%20gli%20zero%20day%20al%20CSIRT.%20Senza%20tutela%20penale%20per%20chi%20segnala%3A%20lo%20ammette%20ACN.%20Il%20615-ter%20arriva%20a%2012%20anni.%20Stiamo%20scrivendo%20in%20pubblico%20la%20norma%20che%20manca.%20Call%20for%20paper%2C%204%20settimane%3A%20https%3A%2F%2Fbuonafede.org%2Fcall.html%20%23buonafede" rel="noopener">Bluesky</a> &middot; <a href="https://x.com/intent/post?text=ACN%20invita%20a%20segnalare%20gli%20zero%20day%20al%20CSIRT.%20Senza%20tutela%20penale%20per%20chi%20segnala%3A%20lo%20ammette%20ACN.%20Il%20615-ter%20arriva%20a%2012%20anni.%20Stiamo%20scrivendo%20in%20pubblico%20la%20norma%20che%20manca.%20Call%20for%20paper%2C%204%20settimane%3A%20https%3A%2F%2Fbuonafede.org%2Fcall.html%20%23buonafede" rel="noopener">X</a> &middot; <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbuonafede.org%2Fcall.html" rel="noopener">LinkedIn</a> &middot; <a href="mailto:?subject=Call%20for%20paper%20Buona%20Fede&amp;body=ACN%20invita%20a%20segnalare%20gli%20zero%20day%20al%20CSIRT.%20Senza%20tutela%20penale%20per%20chi%20segnala%3A%20lo%20ammette%20ACN.%20Il%20615-ter%20arriva%20a%2012%20anni.%20Stiamo%20scrivendo%20in%20pubblico%20la%20norma%20che%20manca.%20Call%20for%20paper%2C%204%20settimane%3A%20https%3A%2F%2Fbuonafede.org%2Fcall.html">mail</a>. Sono link semplici: questo sito non carica nulla da quelle piattaforme, che sanno qualcosa solo se ci clicchi. Per Mastodon e Signal copia il testo.</p>
+    </section>
+
+    <div class="riquadro forte invito">
+      <h3>Se hai fatto questo lavoro, hai già visto dove la norma manca</h3>
+      <p>Scrivicelo.</p>
+      <p><a class="pulsante" href="mailto:segreteria@buonafede.org?subject=Contributo%20alla%20call%20Buona%20Fede&amp;body=Nome%20o%20pseudonimo%3A%0ARuolo%20(facoltativo)%3A%0A%0APunto%20della%20call%20a%20cui%20rispondo%20(numero%20e%20titolo)%3A%0A%0AEsperienza%20o%20argomento%3A%0A%0AFonti%20(norme%2C%20documenti%2C%20casi%20gia%20pubblici)%3A%0A%0A---%0ANon%20indicare%20vulnerabilita%20reali%20non%20risolte%2C%20nomi%20di%20sistemi%20o%20aziende%2C%20exploit.">Scrivi alla segreteria</a></p>
+    </div>
+  </article>
+</main>
+
+<footer class="piede">
+  <div class="interno">
+    <div>
+      <p><a class="marchio" href="index.html" aria-label="Buona Fede"><img class="chiaro" src="logo/logo-orizzontale.svg" alt="buona fede" width="718" height="133"><img class="scuro" src="logo/logo-orizzontale-negativo.svg" alt="" width="718" height="133"></a></p>
+      <p>Iniziativa collettiva, neutrale, senza aziende e senza marchi. Promotore: Maurizio Siracusa, ricercatore di sicurezza indipendente, a titolo personale.</p>
+      <p>Scritto con l'aiuto di un'IA, rivisto e firmato dal promotore.</p>
+    </div>
+    <div>
+      <p><a href="mailto:segreteria@buonafede.org">segreteria@buonafede.org</a></p>
+      <p>Niente cookie, niente strumenti di analisi, nessuna risorsa da servizi esterni.</p>
+      <p>Hai trovato una vulnerabilità? Non segnalarla qui: usa i canali di CSIRT Italia.</p>
+    </div>
+  </div>
+</footer>
+</body>
+</html>
