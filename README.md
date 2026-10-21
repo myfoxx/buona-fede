@@ -18,7 +18,7 @@ Il manifesto sta in [manifesto/MANIFESTO.md](manifesto/MANIFESTO.md).
 | `confronto/` | Schede comparative: Belgio, Paesi Bassi, Germania, Francia, con fonti e punti da verificare |
 | `proposta/` | Scheletro del testo articolato, alternative, nodi per i penalisti, registro delle osservazioni |
 | `firmatari/` | Regole ed elenco di chi firma, con nome e ruolo |
-| `call/` | Call for paper in due fasi e testi per il lancio |
+| `call/` | Call for paper in due fasi e contributi ricevuti |
 
 ## Come partecipare
 
