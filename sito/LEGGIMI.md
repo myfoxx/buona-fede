@@ -12,11 +12,11 @@ Sito statico: HTML e un solo foglio di stile, in stile testo puro (monospazio di
 
 Le pagine non sono generate: se cambi un testo nel repository, cambia anche la pagina corrispondente. Intestazione e piè di pagina sono ripetuti in ogni file. Se i file crescono, conviene passare a un generatore statico, ma per cinque pagine non vale il costo.
 
-## Da sistemare prima della pubblicazione
+## Stato e cose da tenere aggiornate
 
 1. **Marchio.** Fatto. I file stanno in `logo/` (vedi `logo/LEGGIMI.md`); l'intestazione e il piede caricano la versione orizzontale, con il negativo in modalità scura. `favicon.svg` è il quadrato "bf.".
-2. **Date.** La call dice "quattro settimane" e "le date saranno indicate in questa pagina": quando fissi l'apertura, inserisci apertura e chiusura in `call.html`.
-3. **Dominio.** Aggiungi il file `CNAME` con `buonafede.org` solo quando il dominio è registrato e puntato. Il redirect di `buonafede.net` si configura a livello DNS o di registrar.
+2. **Date.** Fase 1 dal 21 ottobre al 30 novembre 2026, scritte in `call.html` e `index.html`. Le tappe successive le fissa il comitato: aggiornare la sezione "Cosa succede dopo" di `call.html`.
+3. **Dominio.** `buonafede.org` è attivo con HTTPS; il file `CNAME` è in questa cartella. Se un giorno si registra `buonafede.net`, il redirect si fa sul registrar.
 4. **Schede del confronto.** Restano valide solo finché le fonti primarie non vengono lette. I punti da verificare sono marcati in pagina.
 
 ## Pubblicazione con GitHub Pages

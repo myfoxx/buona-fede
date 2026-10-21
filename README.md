@@ -30,11 +30,11 @@ I contributi con pseudonimo sono accolti nel repository. Tra i firmatari si comp
 
 | Fase | Contenuto | Durata |
 |---|---|---|
-| 1 | Contributi sui principi | 4 settimane dal [DATA APERTURA] |
-| 2 | Revisione del testo articolato | [DURATA DA FISSARE] |
-| Chiusura | v1.0 e raccolta delle firme | [DATA] |
+| 1 | Contributi sui principi | dal 21 ottobre al 30 novembre 2026 |
+| 2 | Revisione del testo articolato | da fissare dal comitato |
+| Chiusura | v1.0 e raccolta delle firme | da fissare dal comitato |
 
-Le date sono segnaposto: le fissa il comitato alla prima riunione.
+Le date della fase 2 e della chiusura le fissa il comitato alla prima riunione. Sito: https://buonafede.org
 
 ## Cosa questo progetto non è
 

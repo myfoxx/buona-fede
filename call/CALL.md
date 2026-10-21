@@ -22,7 +22,7 @@ Hacker etici, ricercatori di sicurezza, professionisti (pentester, red team, inc
 
 ## Le due fasi
 
-### Fase 1 - Principi (quattro settimane dal [DATA APERTURA])
+### Fase 1 - Principi (dal 21 ottobre al 30 novembre 2026)
 
 Ci servono contributi sui principi, non sui commi. In discussione: buona fede e assenza di profitto; azioni necessarie e proporzionate; nessuna copia o esfiltrazione oltre lo stretto necessario; nessun danno; segnalazione tempestiva a CSIRT Italia e al titolare; nessuna divulgazione senza il consenso del CSIRT; nessuna richiesta di compenso come condizione; esenzione dall'obbligo di denuncia per il CSIRT; estensione ai reati citati dalla Politica.
 
@@ -76,9 +76,9 @@ Maurizio Siracusa, ricercatore di sicurezza indipendente, a titolo personale. Ne
 
 | | |
 |---|---|
-| Apertura fase 1 | [DATA APERTURA] |
-| Chiusura fase 1 | [DATA APERTURA + 28 giorni] |
-| Assemblea dei contributori e scelta del comitato | [DATA] |
-| Sintesi e articolato v0.2 | [DATA] |
-| Fase 2 | [DATA] - [DATA] |
-| Chiusura v1.0 e firme | [DATA] |
+| Apertura fase 1 | 21 ottobre 2026 |
+| Chiusura fase 1 | 30 novembre 2026 |
+| Assemblea dei contributori e scelta del comitato | da fissare dopo la chiusura della fase 1 |
+| Sintesi e articolato v0.2 | da fissare dal comitato |
+| Fase 2 | da fissare dal comitato |
+| Chiusura v1.0 e firme | da fissare dal comitato |
