@@ -42,7 +42,7 @@ Titolo provvisorio: *Disposizioni per la tutela penale della ricerca di sicurezz
 **Collocazione, alternative.**
 
 - **A) Nuovo comma all'art. 615-ter c.p.** Pro: la norma sta dove il ricercatore la cerca. Contro: aggiunge un comma a un articolo già lungo, e lega la tutela al solo 615-ter.
-- **B) Nuovo art. 615-ter.1 c.p.** (come previsto dal progetto). Pro: norma autonoma, estendibile ad altri reati. Contro: numerazione e coordinamento da verificare con gli uffici legislativi.
+- **B) Nuovo art. 615-sexies c.p.** (come previsto dal progetto). Pro: norma autonoma, estendibile ad altri reati. Contro: numerazione e coordinamento da verificare con gli uffici legislativi.
 - **C) Disposizione autonoma nel d.lgs. 138/2024 (nuovo comma dell'art. 16 o articolo 16-bis).** Pro: vicina alla Politica e a CSIRT Italia. Contro: meno visibile per il giudice penale; da valutare rispetto al principio della riserva di codice (art. 3-bis c.p.) *[da verificare dai penalisti]*.
 
 **Testo base (variante B).**
