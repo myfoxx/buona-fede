@@ -2,7 +2,7 @@
 
 Proposta di legge per la tutela penale della ricerca di sicurezza in buona fede (safe harbor) in Italia.
 
-Stato: **v0.1, bozza di lavoro aperta al commento** (20 ottobre 2026).
+Stato: **v0.2, bozza di lavoro aperta al commento** (2 novembre 2026). La fase 1 della call è aperta fino al 30 novembre 2026.
 
 ## Perché esiste
 
@@ -16,9 +16,11 @@ Il manifesto sta in [manifesto/MANIFESTO.md](manifesto/MANIFESTO.md).
 |---|---|
 | `manifesto/` | Manifesto di una pagina: cosa chiediamo, cosa non chiediamo, perché adesso |
 | `confronto/` | Schede comparative: Belgio, Paesi Bassi, Germania, Francia, con fonti e punti da verificare |
-| `proposta/` | Scheletro del testo articolato, alternative, nodi per i penalisti, registro delle osservazioni |
+| `proposta/` | Scheletro del testo articolato con i nodi per i penalisti; bozza completa di lavoro del disegno di legge (relazione illustrativa e articolato, `ddl-bozza-v0.2.md`); dossier della casistica italiana ed estera 2016-2026 con i percorsi normativi degli altri Paesi (`dossier-casistica-e-percorsi-v0.2.md`); matrice delle decisioni aperte (`matrice-decisioni.md`); registro delle osservazioni |
 | `firmatari/` | Regole ed elenco di chi firma, con nome e ruolo |
 | `call/` | Call for paper in due fasi e contributi ricevuti |
+
+**Avvertenza sulla bozza.** La bozza del disegno di legge è materiale di discussione: adotta per ogni articolo un testo base e rinvia ai nodi dello scheletro per le alternative. Il testo definitivo lo scrivono e lo validano i penalisti, come previsto da GOVERNANCE.md. Commentarla è esattamente lo scopo della fase 1.
 
 ## Come partecipare
 
